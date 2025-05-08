@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "513998198400",
+    "firebase_url": "https://cook-book-app-d91ec-default-rtdb.firebaseio.com",
+    "project_id": "cook-book-app-d91ec",
+    "storage_bucket": "cook-book-app-d91ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513998198400:android:e8dead26844dcb4e2d3865",
+        "android_client_info": {
+          "package_name": "com.app.cookbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVJPzfeDmDogRdenKUJJelu8dM5du-M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
